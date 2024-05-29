@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedang Deshmukh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" wight="400" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif">
+<img align="right" alt="Coding" wight="200" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedang18200&label=Profile%20views&color=0e75b6&style=flat" alt="vedang18200" /> </p>
 

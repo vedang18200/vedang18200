@@ -259,8 +259,8 @@ const currentProjects = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🤖 **ML Project** | Advanced machine learning solution | Python, TensorFlow, Pandas | [Demo](https://vedangprojects.netlify.app/) |
-| 🌐 **Web Platform** | Full-stack web application | Django, PostgreSQL, Docker | [Live](https://vedangprojects.netlify.app/) |
+| 🤖 **ML Project** | Advanced machine learning solution | Python, TensorFlow, Pandas | [Demo](https://vedang-portfolio.onrender.com) |
+| 🌐 **Web Platform** | Full-stack web application | Django, PostgreSQL, Docker | [Live](https://vedang-portfolio.onrender.com) |
 | 📱 **Mobile App** | Cross-platform mobile solution | Kivy, Python | [GitHub](#) |
 
 </div>

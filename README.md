@@ -286,6 +286,14 @@ const currentProjects = {
 
 <div align="center">
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=vedang18200&theme=onedark&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ### 💡 *"Building the future, one commit at a time"*
 
 **⭐ Star my repositories if you find them interesting!**
